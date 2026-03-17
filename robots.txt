@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gitts2010-eng.github.io/shamu-cyber/sitemap.xml
